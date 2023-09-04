@@ -5,11 +5,17 @@
 
 # Wwise gitignore
 .cache/*
+.backup*
+.cache*
 *.akd
 *.prof
-*.wsettings
 *.validationcache
 *.wem
+*.wsettings
+AkWwiseProjectData.asset
+IncrementalSoundBankData.xml
+PluginInfo.xml
+SoundbanksInfo.xml
 */Assets/Wwise/Editor/ProjectData/AkWwiseProjectData.asset*
 
 
