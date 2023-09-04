@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 4a60d663a72a11947a5aa415f04424da
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FedraSerifA
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 678804dea07e49e4bb8f6df4d58ae993, type: 3}
+  - {fileID: 12800000, guid: 291a0254e2801f14b8b5116aa521d30b, type: 3}
+  - {fileID: 12800000, guid: 87ae8f4e90df07f4bbb3e3e7c9c607da, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
